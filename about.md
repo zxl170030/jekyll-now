@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hey! Just trying to make my first web page
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zxl170030@utdallas.edu](mailto:email@domain.com)
