@@ -3,8 +3,14 @@ layout: post
 title: Hey there! Welcome to my Github website. 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+[Stata output using dyndoc](/stata/hpidyndoc1.html "Stata dyndoc output")
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+[ggplot2](https://karl-ho.github.io/R/ggplot2/ggplot2_1.html "ggplot2 workshop notebook")
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+[D3 ladder graph: Taiwan climate](/D3/lg_twclimate/index.html "Taiwan Climate Laddergraph")
+
+[Shiny: Reactivity](https://karl-ho.shinyapps.io/Reactive_datasets/ "Shiny Reactivity")
+
+[RMarkdown](/R/Markdown/ggplot2_showcase.html "RMarkdown Demo")
+
+<iframe width="560" height="315" src="https://zxl170030.github.io/findmeat.html" frameborder="0" allowfullscreen></iframe>
