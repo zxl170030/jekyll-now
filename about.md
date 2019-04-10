@@ -8,9 +8,11 @@ I am a PhD (Public Policy & Political Economy) candidate at University of Texas.
 
 ### More Information
 
-Hey! Just trying to make my first web page
+This is just my dumping website where I upload my data, paper replications and visualizations
 
 ### Contact me
 
 [zxl170030@utdallas.edu](mailto:email@domain.com)
+
+
 [zahra.lodi@gmail.com](mailto:email@domain.com)
