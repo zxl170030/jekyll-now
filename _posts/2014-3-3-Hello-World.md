@@ -9,7 +9,7 @@ title: Hey there! Welcome to my Github website.
 
 [D3 ladder graph: Taiwan climate](/D3/lg_twclimate/index.html "Taiwan Climate Laddergraph")
 
-[Shiny: Reactivity](https://karl-ho.shinyapps.io/Reactive_datasets/ "Shiny Reactivity")
+[Shiny: Reactivity with Dr. Ho's data](https://karl-ho.shinyapps.io/Reactive_datasets/ "Shiny Reactivity")
 
 [RMarkdown](/R/Markdown/ggplot2_showcase.html "RMarkdown Demo")
 
