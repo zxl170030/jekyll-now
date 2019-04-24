@@ -13,6 +13,6 @@ title: Hey there! Welcome to my Github website.
 
 [RMarkdown](/R/Markdown/ggplot2_showcase.html "RMarkdown Demo")
 
-[Priestley-style Timeline](/D3/timeline/index1.html "Timeline")
+[Priestley-style Timeline] (/D3/timeline/index1.html)
 
 <iframe width="560" height="315" src="https://zxl170030.github.io/findmeat.html" frameborder="0" allowfullscreen></iframe>
